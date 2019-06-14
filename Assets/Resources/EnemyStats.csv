@@ -1,0 +1,13 @@
+difficulty,EASY,NORMAL,HARD
+Damage1,5,10,20
+FireRate1,3,2,2
+ReloadTime1,7,7,6
+AmmoPerReload1,8,8,16
+Damage2,15,25,40
+FireRate2,6,4,5
+ReloadTime2,4,4,4
+AmmoPerReload2,1,1,2
+Damage3,30,50,70
+FireRate3,21,8,22
+ReloadTime3,25,20,15
+AmmoPerReload3,2,2,4
